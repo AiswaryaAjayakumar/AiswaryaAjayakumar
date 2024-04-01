@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aiswaryaajayakumar" alt="aiswaryaajayakumar" /></a> </p>
 
-- 🔭 I’m currently doing **internship as Flutter developer**
+- 🔭 I’m currently doing my **internship as Flutter developer**
 
 - 🌱 I’m currently learning **Flutter, Dart, Rest api, Firebase**
 
